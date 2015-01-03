@@ -1,0 +1,16 @@
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\Dunkmaster Darius.exe.config
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\Dunkmaster Darius.exe
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\Dunkmaster Darius.pdb
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\LeagueSharp.Common.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\LeagueSharp.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\xSLx-Orbwalker.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.Toolkit.Graphics.dll
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\LeagueSharp.xml
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\bin\Release\SharpDX.Toolkit.Graphics.xml
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\obj\Debug\Dunkmaster Darius Rework.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\obj\Debug\Dunkmaster Darius.exe
+C:\Users\Fabian\Documents\Visual Studio 2013\Projects\Dunkmaster Darius Rework\Dunkmaster Darius\obj\Debug\Dunkmaster Darius.pdb
